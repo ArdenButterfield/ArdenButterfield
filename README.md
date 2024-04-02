@@ -1,1 +1,3 @@
-Junior software engineer with an interest in audio effects and glitch art.
+striving to make audio software that is playful and surprising.
+
+sometimes i break mp3s.
